@@ -20,3 +20,9 @@ Numkbers at the second column at the FinallResult-list.txt is number of the word
       | All of these python codes are distributed under the terms of     |
       |            the GNU Lesser General Public License (LGPL 2.1)      |
       -------------------------------------------------------------------
+
+the FarsitextCleaning.py will help you to avoid the char repetition in farsi words. for example :
+سسسللااااامممممم 
+will convert to:
+سلام 
+its help you to have better text cleaning on nlp algorithm 
